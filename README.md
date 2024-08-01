@@ -45,6 +45,52 @@ Use these settings when adding a monitor:</b>
 <a href="https://heroku.com/deploy?template=https://github.com/mohitbooraget/TXTUPLOADER1.0">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
+## Deploy To Heroku<p align="center">
 
-  ## Contact :
-<a href="https://t.me/official_virendraverma"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudoR2spr/text-leech-bot)<p align="center">
+
+
+## Deploy To Google Colab
+
+<a href="https://colab.research.google.com/github/SudoR2spr/text-leech-bot/blob/main/.github/AshutoshGoswami24" target="_blank">
+  <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
+</a>
+
+## Deploy To Koyeb
+              
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/SudoR2spr/text-leech-bot&branch=heroku&name=textleechbot" >
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
+
+## Deploy To Render                  
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://render.com/deploy?repo=https://github.com/SudoR2spr/text-leech-bot/tree/heroku)
+
+## vars.py [vars.py](https://github.com/SudoR2spr/txt-leech-bot/blob/main/modules/vars.py)
+
+* BOT_TOKEN  - 7112692835:AAHafRzWYXfl8N_pqvif5HM9mBasYGhAqKk
+
+* API_ID -  25808845
+
+* API_HASH - f7382315cec4b93169335605e686aba0
+
+* PORT - 8080
+
+
+## Botfather Commands
+start - 🦋 Bot Alive Cheking
+stop - 🛑 Upload stop
+uplod - 🎬 Txt file upload
+
+## Connect with me
+
+➳ᴹᴿ✿ 𝐆𝐣_𝐦𝐚𝐟𝐢𝐚『ᏫᎮ』
+
+
+
+
+
+
+
+ 
+
